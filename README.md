@@ -1,2 +1,2 @@
-# 100_days_of_ML
+# Machine Learning
 A basic Github repository for Machine learning 
